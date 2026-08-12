@@ -10,7 +10,7 @@ From the repository root, run:
 ./scripts/refresh-assets.sh
 ```
 
-The wrapper reads `data/contribution_calendar_summary.json`, which is the verified contribution snapshot captured during the profile transformation, and regenerates the files in `assets/`.
+The wrapper reads `data/contribution_calendar_summary.json`, which is the committed contribution snapshot captured from the live GitHub profile, and regenerates the files in `assets/`. The snapshot includes its UTC capture timestamp and the complete retrieved calendar window.
 
 ## Generated files
 
@@ -25,7 +25,7 @@ The wrapper reads `data/contribution_calendar_summary.json`, which is the verifi
 
 ## Data integrity
 
-The contribution visualization is intentionally modest. It reflects the retrieved snapshot of **3 total contributions**, **2 active days**, and a maximum of **2 contributions on a single day**. It must not be edited to imply a stronger activity record.
+The contribution visualization is intentionally modest. The current committed snapshot records **9 total contributions**, **4 active days**, and a maximum of **5 contributions on a single day** across the retrieved 368-day window. The snapshot was captured on 2026-08-12 UTC from the public GitHub profile and must not be edited to imply a stronger activity record.
 
 The project description in the README is limited to facts documented in the private CardX Pro README. No private source code, credentials, or repository internals are copied into this public profile repository.
 

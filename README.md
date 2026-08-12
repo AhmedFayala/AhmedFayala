@@ -56,7 +56,7 @@ The project remains private. This profile intentionally describes only the verif
   <img src="./assets/contribution-isometric.png" alt="Isometric contribution activity field generated from the GitHub contribution calendar" width="100%" />
 </p>
 
-This is a locally generated visual snapshot rather than a third-party dynamic card. Refresh instructions are documented in [`docs/refreshing-profile-assets.md`](docs/refreshing-profile-assets.md).
+This is a locally generated visual snapshot rather than a third-party dynamic card. The displayed totals were captured on **2026-08-12 UTC**. Refresh instructions are documented in [`docs/refreshing-profile-assets.md`](docs/refreshing-profile-assets.md).
 
 ## How I build
 
