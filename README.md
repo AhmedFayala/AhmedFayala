@@ -1,72 +1,85 @@
 <p align="center">
-  <img src="./assets/ai-automation-lab.png" alt="A three-dimensional AI automation developer laboratory" width="100%" />
+  <img src="./assets/profile-typing.gif" alt="Animated Ahmed Saleh profile identity banner" width="100%" />
 </p>
 
-<h1 align="center">Ahmed Saleh</h1>
-
 <p align="center">
-  <strong>Python Developer · AI Automation · Telegram Systems</strong><br />
-  <em>Building practical software, thoughtfully and one line at a time.</em>
+  <strong>Python Developer · Telegram Systems · AI Automation</strong><br />
+  <em>Building practical software, one line at a time.</em>
 </p>
 
 <p align="center">
   <a href="https://t.me/Mr_Ahmed_Saleh"><img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Connect on Telegram" /></a>
   <img src="https://img.shields.io/badge/Location-Egypt-1f6feb?style=flat-square" alt="Based in Egypt" />
-  <img src="https://img.shields.io/badge/Open%20to-Meaningful%20Projects-8250df?style=flat-square" alt="Open to meaningful projects" />
+  <a href="https://github.com/AhmedFayala">GitHub</a>
 </p>
-
----
-
-## About
-
-I am a Python developer based in Egypt, focused on turning ideas into reliable automation and communication tools. My work centers on **Telegram bot systems**, **AI-assisted workflows**, and **practical backend services** built with clean architecture, documentation, and tests in mind.
-
-> أُطوّر أدوات عملية ببايثون تجمع بين الأتمتة والذكاء الاصطناعي وتجارب المستخدم الواضحة.
 
 <p align="center">
-  <img src="./assets/ai-automation-lab-motion.gif" alt="Animated three-dimensional AI automation laboratory" width="640" />
+  <img src="./assets/glow-divider.svg" alt="Neon cyan and violet divider" width="100%" />
 </p>
 
-## Current Focus
+## The signal
 
-| Area | What I am building and improving |
+I am **Ahmed Saleh**, a Python developer based in Egypt. My current public profile is centered on **Telegram systems**, **AI automation**, and practical software with readable documentation and maintainable structure.
+
+> Build the useful thing. Keep the system understandable.
+
+<p align="center">
+  <img src="./assets/ai-automation-lab.png" alt="Futuristic AI automation laboratory with a glowing Telegram signal" width="100%" />
+</p>
+
+## What I am building
+
+| Focus | Verified direction |
 |---|---|
-| **Python systems** | Maintainable async applications, clear project structure, and dependable tooling. |
-| **Telegram experiences** | Bilingual bots, user flows, rich messages, and workflow automation with `aiogram`. |
-| **AI automation** | Practical LLM integrations that support useful, repeatable workflows. |
-| **Backend foundations** | APIs, configuration, persistence, testing, and deployment-ready engineering habits. |
+| **Python systems** | Python is the primary language of the current private project, with `uv` and a committed lockfile supporting reproducible setup. |
+| **Telegram experiences** | CardX Pro is documented as a professional Telegram bot built with `aiogram 3.x`, including bilingual support and user flows. |
+| **AI automation** | The public profile repository is tagged with `ai` and `automation`, and the account bio identifies AI enthusiasm as a current interest. |
+| **Readable engineering** | The current project includes architecture, development guidance, technical principles, change history, project memory, and tests. |
 
-## Technical Toolkit
+## Selected build signal
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/aiogram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+### CardX Pro · private project
+
+A private Python project documented as a professional Telegram bot built with **aiogram 3.x**. Its repository README records bilingual Arabic/English support, user registration and profile management, media-rich welcome messages, HTML-formatted output, and an SQLite database using WAL mode.
+
+The project remains private. This profile intentionally describes only the verified public-facing project facts and does not expose private source code or repository internals.
+
+## Technical focus
+
+<p align="center">
+  <img src="./assets/tech-strip.png" alt="Verified technology focus: Python, aiogram 3.x, SQLite WAL, uv, Telegram systems, and AI automation" width="100%" />
 </p>
 
-## Selected Work
+## Contribution field
 
-### CardX Pro — Private Project
+<p align="center">
+  <img src="./assets/contribution-isometric.png" alt="Isometric contribution activity field generated from the GitHub contribution calendar" width="100%" />
+</p>
 
-A bilingual Telegram bot engineered with **Python**, **aiogram**, **SQLite**, asynchronous workflows, tests, and a documented project architecture. It is my current reference project for building clean, user-focused automation systems.
+This is a locally generated visual snapshot rather than a third-party dynamic card. Refresh instructions are documented in [`docs/refreshing-profile-assets.md`](docs/refreshing-profile-assets.md).
 
-## How I Build
+## How I build
 
 | 01 | 02 | 03 | 04 |
 |---|---|---|---|
 | Clarify the problem | Design the flow | Build incrementally | Test and document |
 
-I value focused scope, readable code, sensible defaults, and software that remains understandable after the first release.
+I value focused scope, clear interfaces, sensible defaults, and software that remains understandable after the first release.
+
+<p align="center">
+  <img src="./assets/ai-automation-lab-motion.gif" alt="Animated futuristic AI automation laboratory" width="640" />
+</p>
 
 ## Connect
 
-If you would like to discuss a Python automation, a Telegram product, or an AI-enabled workflow, reach me on [Telegram](https://t.me/Mr_Ahmed_Saleh).
+For a Python automation idea, a Telegram product, or an AI-enabled workflow, reach me on [Telegram](https://t.me/Mr_Ahmed_Saleh).
+
+| Metadata | Status |
+|---|---|
+| **Website / portfolio** | Not provided yet. |
+| **Public email** | Not provided yet. |
+| **Preferred contact** | Telegram is the currently verified public contact channel. |
 
 <p align="center">
-  <sub>Designed for clarity, built for useful work.</sub>
+  <sub>Designed for clarity. Built for useful work.</sub>
 </p>
