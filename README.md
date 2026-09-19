@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://t.me/Mr_Ahmed_Saleh"><img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Connect on Telegram" /></a>
   <img src="https://img.shields.io/badge/Location-Egypt-1f6feb?style=flat-square" alt="Based in Egypt" />
-  <a href="https://github.com/AhmedFayala">GitHub</a>
+  <a href="https://github.com/AhmedFayala">GitHub</a> · <a href="https://gitlab.com/www.pubgmobilahmed">GitLab</a>
 </p>
 
 <p align="center">
